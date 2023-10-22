@@ -1,4 +1,4 @@
 ipywidgets
-notebooks
+notebook
 ensure
 py-youtube
