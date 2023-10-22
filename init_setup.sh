@@ -5,5 +5,5 @@ conda create --prefix ./env python=3.8 -y
 echo [$(date)]: "activate env"
 source activate ./env
 cho [$(date)]: "installing dev requirements"
-pip install -r requirments_dev.txt
+pip install -r requirements_dev.txt
 cho [$(date)]: "END"
