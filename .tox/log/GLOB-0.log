@@ -1,6 +1,6 @@
 action: GLOB, msg: packaging
 cwd: /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer
-cmd: /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/bin/python setup.py sdist --formats=zip --dist-dir /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/.tox/dist
+cmd: /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
 running sdist
 running egg_info
 writing src/IPYNBrenderer.egg-info/PKG-INFO
@@ -22,14 +22,16 @@ copying pyproject.toml -> IPYNBrenderer-0.0.0
 copying setup.cfg -> IPYNBrenderer-0.0.0
 copying setup.py -> IPYNBrenderer-0.0.0
 copying src/IPYNBrenderer/__init__.py -> IPYNBrenderer-0.0.0/src/IPYNBrenderer
+copying src/IPYNBrenderer/custom_exception.py -> IPYNBrenderer-0.0.0/src/IPYNBrenderer
+copying src/IPYNBrenderer/logger.py -> IPYNBrenderer-0.0.0/src/IPYNBrenderer
+copying src/IPYNBrenderer/youtube.py -> IPYNBrenderer-0.0.0/src/IPYNBrenderer
 copying src/IPYNBrenderer.egg-info/PKG-INFO -> IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info
 copying src/IPYNBrenderer.egg-info/SOURCES.txt -> IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info
 copying src/IPYNBrenderer.egg-info/dependency_links.txt -> IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info
 copying src/IPYNBrenderer.egg-info/requires.txt -> IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info
 copying src/IPYNBrenderer.egg-info/top_level.txt -> IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info
 Writing IPYNBrenderer-0.0.0/setup.cfg
-creating /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/.tox/dist
-creating '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/.tox/dist/IPYNBrenderer-0.0.0.zip' and adding 'IPYNBrenderer-0.0.0' to it
+creating '.tox/dist/IPYNBrenderer-0.0.0.zip' and adding 'IPYNBrenderer-0.0.0' to it
 adding 'IPYNBrenderer-0.0.0'
 adding 'IPYNBrenderer-0.0.0/src'
 adding 'IPYNBrenderer-0.0.0/PKG-INFO'
@@ -45,7 +47,10 @@ adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info/SOURCES.txt'
 adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info/requires.txt'
 adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info/top_level.txt'
 adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer.egg-info/dependency_links.txt'
+adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer/youtube.py'
+adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer/custom_exception.py'
 adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer/__init__.py'
+adding 'IPYNBrenderer-0.0.0/src/IPYNBrenderer/logger.py'
 removing 'IPYNBrenderer-0.0.0' (and everything under it)
 /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8/site-packages/setuptools/config/setupcfg.py:293: _DeprecatedConfig: Deprecated config in `setup.cfg`
 !!
