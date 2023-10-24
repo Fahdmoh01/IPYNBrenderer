@@ -7,9 +7,9 @@ with open("README.md","r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 
-REPO_NAME = "PYTHON-PACKAGE"
+REPO_NAME = "IPYNBrenderer"
 AUTHOR_USER_NAME = "Fahdmoh01"
-SRC_REPO= "PTHON-PACKAGE"
+SRC_REPO= "IPYNBrenderer"
 AUTHOR_EMAIL = "fahdmoh.1@gmail.com"
 
 setuptools.setup(
