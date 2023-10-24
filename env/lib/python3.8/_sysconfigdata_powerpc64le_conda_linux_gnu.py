@@ -8,17 +8,17 @@ build_time_vars = {'ABIFLAGS': '',
  'BASECFLAGS': '-Wno-unused-result -Wsign-compare',
  'BASECPPFLAGS': '-IObjects -IInclude -IPython',
  'BASEMODLIBS': '',
- 'BINDIR': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/bin',
- 'BINLIBDEST': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8',
+ 'BINDIR': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/bin',
+ 'BINLIBDEST': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8',
  'BLDLIBRARY': 'libpython3.8.a',
  'BLDSHARED': 'powerpc64le-conda-linux-gnu-gcc -pthread -shared -Wl,-O2 '
               '-Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now '
-              '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-              '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+              '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+              '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
               '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro '
               '-Wl,-z,now '
-              '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-              '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+              '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+              '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
               '   '
               '',
  'BUILDEXE': '',
@@ -44,25 +44,25 @@ build_time_vars = {'ABIFLAGS': '',
                      '-mpower8-vector -ftree-vectorize -fPIC '
                      '-fstack-protector-strong -fno-plt -O2 '
                      '-fdebug-prefix-map=/opt/conda/conda-bld/python_1512347718438/work=/usr/local/src/conda/python-3.8.18 '
-                     '-fdebug-prefix-map=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env=/usr/local/src/conda-prefix '
+                     '-fdebug-prefix-map=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env=/usr/local/src/conda-prefix '
                      '-pipe    '
                      ' ',
  'CONFIGURE_CFLAGS_NODIST': '-std=c99 -Wextra -Wno-unused-result '
                             '-Wno-unused-parameter '
                             '-Wno-missing-field-initializers',
  'CONFIGURE_CPPFLAGS': '-D_FORTIFY_SOURCE=2 -O2 '
-                       '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include',
+                       '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include',
  'CONFIGURE_LDFLAGS': '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro '
                       '-Wl,-z,now '
-                      '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-                      '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib',
- 'CONFIG_ARGS': "'--prefix=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env' "
+                      '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+                      '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib',
+ 'CONFIG_ARGS': "'--prefix=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env' "
                 "'--build=powerpc64le-conda-linux-gnu' "
                 "'--host=powerpc64le-conda-linux-gnu' '--enable-ipv6' "
                 "'--with-ensurepip=no' '--with-computed-gotos' "
                 "'--with-system-ffi' '--enable-loadable-sqlite-extensions' "
-                "'--with-tcltk-includes=-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include' "
-                "'--with-tcltk-libs=-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib "
+                "'--with-tcltk-includes=-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include' "
+                "'--with-tcltk-libs=-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib "
                 "-ltcl8.6 -ltk8.6' '--enable-optimizations' '--with-lto' "
                 "'--disable-shared' "
                 "'build_alias=powerpc64le-conda-linux-gnu' "
@@ -72,18 +72,18 @@ build_time_vars = {'ABIFLAGS': '',
                 '-mpower8-vector -ftree-vectorize -fPIC '
                 '-fstack-protector-strong -fno-plt -O2 '
                 '-fdebug-prefix-map=/opt/conda/conda-bld/python_1512347718438/work=/usr/local/src/conda/python-3.8.18 '
-                '-fdebug-prefix-map=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env=/usr/local/src/conda-prefix '
+                '-fdebug-prefix-map=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env=/usr/local/src/conda-prefix '
                 '-pipe    '
                 " ' 'LDFLAGS=-Wl,-O2 "
                 '-Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now '
-                '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-                "-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib' "
+                '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+                "-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib' "
                 "'CPPFLAGS=-D_FORTIFY_SOURCE=2 -O2 "
-                "-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include' "
-                "'CPP=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/bin/powerpc64le-conda-linux-gnu-cpp' "
-                "'PKG_CONFIG_PATH=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/pkgconfig'",
- 'CONFINCLUDEDIR': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include',
- 'CONFINCLUDEPY': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include/python3.8',
+                "-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include' "
+                "'CPP=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/bin/powerpc64le-conda-linux-gnu-cpp' "
+                "'PKG_CONFIG_PATH=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/pkgconfig'",
+ 'CONFINCLUDEDIR': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include',
+ 'CONFINCLUDEPY': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include/python3.8',
  'COREPYTHONPATH': ':',
  'COVERAGE_INFO': '/opt/conda/conda-bld/python_1512347718438/work/build-static/coverage.info',
  'COVERAGE_REPORT': '/opt/conda/conda-bld/python_1512347718438/work/build-static/lcov-report',
@@ -92,17 +92,17 @@ build_time_vars = {'ABIFLAGS': '',
  'CPPFLAGS': '-IObjects -IInclude -IPython -I. '
              '-I/opt/conda/conda-bld/python_1512347718438/work/Include '
              '-D_FORTIFY_SOURCE=2 -O2 '
-             '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include '
+             '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include '
              '-D_FORTIFY_SOURCE=2 -O2 '
-             '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include',
+             '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include',
  'CXX': 'powerpc64le-conda-linux-gnu-c++ -pthread',
- 'DESTDIRS': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env '
-             '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-             '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8 '
-             '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8/lib-dynload',
- 'DESTLIB': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8',
+ 'DESTDIRS': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env '
+             '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+             '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8 '
+             '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8/lib-dynload',
+ 'DESTLIB': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8',
  'DESTPATH': '',
- 'DESTSHARED': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8/lib-dynload',
+ 'DESTSHARED': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8/lib-dynload',
  'DFLAGS': '',
  'DIRMODE': 755,
  'DIST': 'README ChangeLog configure configure.ac acconfig.h pyconfig.h.in '
@@ -516,12 +516,12 @@ build_time_vars = {'ABIFLAGS': '',
  'HAVE_ZLIB_COPY': 1,
  'HAVE__GETPTY': 0,
  'HOST_GNU_TYPE': 'powerpc64le-conda-linux-gnu',
- 'INCLDIRSTOMAKE': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include '
-                   '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include '
-                   '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include/python3.8 '
-                   '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include/python3.8',
- 'INCLUDEDIR': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include',
- 'INCLUDEPY': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include/python3.8',
+ 'INCLDIRSTOMAKE': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include '
+                   '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include '
+                   '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include/python3.8 '
+                   '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include/python3.8',
+ 'INCLUDEDIR': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include',
+ 'INCLUDEPY': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include/python3.8',
  'INSTALL': '/usr/bin/install -c',
  'INSTALL_DATA': '/usr/bin/install -c -m 644',
  'INSTALL_PROGRAM': '/usr/bin/install -c',
@@ -532,34 +532,34 @@ build_time_vars = {'ABIFLAGS': '',
  'IO_OBJS': '\\',
  'LDCXXSHARED': 'powerpc64le-conda-linux-gnu-c++ -pthread -shared',
  'LDFLAGS': '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now '
-            '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-            '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+            '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+            '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
             '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now '
-            '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-            '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+            '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+            '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
             '   ',
  'LDLAST': '',
  'LDLIBRARY': 'libpython3.8.a',
  'LDLIBRARYDIR': '',
  'LDSHARED': 'powerpc64le-conda-linux-gnu-gcc -pthread -shared -Wl,-O2 '
              '-Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now '
-             '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-             '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+             '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+             '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
              '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro '
              '-Wl,-z,now '
-             '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-             '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+             '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+             '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
              '   ',
  'LDVERSION': '3.8',
  'LIBC': '',
- 'LIBDEST': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8',
- 'LIBDIR': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib',
- 'LIBFFI_INCLUDEDIR': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include',
+ 'LIBDEST': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8',
+ 'LIBDIR': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib',
+ 'LIBFFI_INCLUDEDIR': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include',
  'LIBM': '-lm',
  'LIBOBJDIR': 'Python/',
  'LIBOBJS': '',
- 'LIBPC': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/pkgconfig',
- 'LIBPL': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8/config-3.8-powerpc64le-linux-gnu',
+ 'LIBPC': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/pkgconfig',
+ 'LIBPL': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8/config-3.8-powerpc64le-linux-gnu',
  'LIBRARY': 'libpython3.8.a',
  'LIBRARY_OBJS': '\\',
  'LIBRARY_OBJS_OMIT_FROZEN': '\\',
@@ -577,13 +577,13 @@ build_time_vars = {'ABIFLAGS': '',
  'MACHDEP': 'linux',
  'MACHDEPPATH': ':',
  'MACHDEP_OBJS': '',
- 'MACHDESTLIB': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8',
+ 'MACHDESTLIB': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8',
  'MACOSX_DEPLOYMENT_TARGET': '',
  'MAINCC': 'powerpc64le-conda-linux-gnu-gcc -pthread',
  'MAJOR_IN_MKDEV': 0,
  'MAJOR_IN_SYSMACROS': 0,
  'MAKESETUP': '/opt/conda/conda-bld/python_1512347718438/work/Modules/makesetup',
- 'MANDIR': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/share/man',
+ 'MANDIR': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/share/man',
  'MKDIR_P': '/usr/bin/mkdir -p',
  'MODLIBS': '',
  'MODNAMES': '_thread posix errno pwd _sre _codecs _weakref _functools '
@@ -682,25 +682,25 @@ build_time_vars = {'ABIFLAGS': '',
                    '-IPython -I. '
                    '-I/opt/conda/conda-bld/python_1512347718438/work/Include '
                    '-D_FORTIFY_SOURCE=2 -O2 '
-                   '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include '
+                   '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include '
                    '-D_FORTIFY_SOURCE=2 -O2 '
-                   '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include  '
+                   '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include  '
                    '-DPy_BUILD_CORE',
  'PY_CPPFLAGS': '-IObjects -IInclude -IPython -I. '
                 '-I/opt/conda/conda-bld/python_1512347718438/work/Include '
                 '-D_FORTIFY_SOURCE=2 -O2 '
-                '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include '
+                '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include '
                 '-D_FORTIFY_SOURCE=2 -O2 '
-                '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include',
+                '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include',
  'PY_FORMAT_SIZE_T': '"z"',
  'PY_LDFLAGS': '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro '
                '-Wl,-z,now '
-               '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-               '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+               '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+               '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
                '-Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro '
                '-Wl,-z,now '
-               '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
-               '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+               '-Wl,-rpath,/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
+               '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
                '   '
                '',
  'Py_DEBUG': 0,
@@ -712,7 +712,7 @@ build_time_vars = {'ABIFLAGS': '',
  'RESSRCDIR': 'Mac/Resources/framework',
  'RETSIGTYPE': 'void',
  'RUNSHARED': '',
- 'SCRIPTDIR': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib',
+ 'SCRIPTDIR': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib',
  'SETPGRP_HAVE_ARG': 0,
  'SGI_ABI': '',
  'SHELL': '/bin/sh',
@@ -748,8 +748,8 @@ build_time_vars = {'ABIFLAGS': '',
  'SYSLIBS': '-lm',
  'SYS_SELECT_WITH_SYS_TIME': 1,
  'TANH_PRESERVES_ZERO_SIGN': 1,
- 'TCLTK_INCLUDES': '-I/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include',
- 'TCLTK_LIBS': '-L/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib '
+ 'TCLTK_INCLUDES': '-I/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include',
+ 'TCLTK_LIBS': '-L/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib '
                '-ltcl8.6 -ltk8.6',
  'TESTOPTS': '',
  'TESTPATH': '',
@@ -782,7 +782,7 @@ build_time_vars = {'ABIFLAGS': '',
  'XMLLIBSUBDIRS': 'xml xml/dom xml/etree xml/parsers xml/sax',
  'abs_builddir': '/opt/conda/conda-bld/python_1512347718438/work/build-static',
  'abs_srcdir': '/opt/conda/conda-bld/python_1512347718438/work',
- 'datarootdir': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/share',
- 'exec_prefix': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env',
- 'prefix': '/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env',
+ 'datarootdir': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/share',
+ 'exec_prefix': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env',
+ 'prefix': '/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env',
  'srcdir': '/opt/conda/conda-bld/python_1512347718438/work'}

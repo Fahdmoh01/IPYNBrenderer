@@ -1,58 +1,58 @@
 action: GLOB, msg: packaging
-cwd: /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer
-cmd: /Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
+cwd: /Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer
+cmd: /Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/bin/python setup.py sdist --formats=zip --dist-dir .tox/dist
 running sdist
 running egg_info
-writing src/IPYNBrenderer.egg-info/PKG-INFO
-writing dependency_links to src/IPYNBrenderer.egg-info/dependency_links.txt
-writing requirements to src/IPYNBrenderer.egg-info/requires.txt
-writing top-level names to src/IPYNBrenderer.egg-info/top_level.txt
-reading manifest file 'src/IPYNBrenderer.egg-info/SOURCES.txt'
+writing src/agodzoYTRenderer.egg-info/PKG-INFO
+writing dependency_links to src/agodzoYTRenderer.egg-info/dependency_links.txt
+writing requirements to src/agodzoYTRenderer.egg-info/requires.txt
+writing top-level names to src/agodzoYTRenderer.egg-info/top_level.txt
+reading manifest file 'src/agodzoYTRenderer.egg-info/SOURCES.txt'
 adding license file 'LICENSE'
-writing manifest file 'src/IPYNBrenderer.egg-info/SOURCES.txt'
+writing manifest file 'src/agodzoYTRenderer.egg-info/SOURCES.txt'
 running check
-creating IPYNBrenderer-0.0.1
-creating IPYNBrenderer-0.0.1/src
-creating IPYNBrenderer-0.0.1/src/IPYNBrenderer
-creating IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info
-copying files to IPYNBrenderer-0.0.1...
-copying LICENSE -> IPYNBrenderer-0.0.1
-copying README.md -> IPYNBrenderer-0.0.1
-copying pyproject.toml -> IPYNBrenderer-0.0.1
-copying setup.cfg -> IPYNBrenderer-0.0.1
-copying setup.py -> IPYNBrenderer-0.0.1
-copying src/IPYNBrenderer/__init__.py -> IPYNBrenderer-0.0.1/src/IPYNBrenderer
-copying src/IPYNBrenderer/custom_exception.py -> IPYNBrenderer-0.0.1/src/IPYNBrenderer
-copying src/IPYNBrenderer/logger.py -> IPYNBrenderer-0.0.1/src/IPYNBrenderer
-copying src/IPYNBrenderer/youtube.py -> IPYNBrenderer-0.0.1/src/IPYNBrenderer
-copying src/IPYNBrenderer.egg-info/PKG-INFO -> IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info
-copying src/IPYNBrenderer.egg-info/SOURCES.txt -> IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info
-copying src/IPYNBrenderer.egg-info/dependency_links.txt -> IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info
-copying src/IPYNBrenderer.egg-info/requires.txt -> IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info
-copying src/IPYNBrenderer.egg-info/top_level.txt -> IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info
-Writing IPYNBrenderer-0.0.1/setup.cfg
-creating '.tox/dist/IPYNBrenderer-0.0.1.zip' and adding 'IPYNBrenderer-0.0.1' to it
-adding 'IPYNBrenderer-0.0.1'
-adding 'IPYNBrenderer-0.0.1/src'
-adding 'IPYNBrenderer-0.0.1/PKG-INFO'
-adding 'IPYNBrenderer-0.0.1/LICENSE'
-adding 'IPYNBrenderer-0.0.1/pyproject.toml'
-adding 'IPYNBrenderer-0.0.1/README.md'
-adding 'IPYNBrenderer-0.0.1/setup.py'
-adding 'IPYNBrenderer-0.0.1/setup.cfg'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info/PKG-INFO'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info/SOURCES.txt'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info/requires.txt'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info/top_level.txt'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer.egg-info/dependency_links.txt'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer/youtube.py'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer/custom_exception.py'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer/__init__.py'
-adding 'IPYNBrenderer-0.0.1/src/IPYNBrenderer/logger.py'
-removing 'IPYNBrenderer-0.0.1' (and everything under it)
-/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8/site-packages/setuptools/config/setupcfg.py:293: _DeprecatedConfig: Deprecated config in `setup.cfg`
+creating agodzoYTRenderer-0.0.1
+creating agodzoYTRenderer-0.0.1/src
+creating agodzoYTRenderer-0.0.1/src/agodzoYTRenderer
+creating agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info
+copying files to agodzoYTRenderer-0.0.1...
+copying LICENSE -> agodzoYTRenderer-0.0.1
+copying README.md -> agodzoYTRenderer-0.0.1
+copying pyproject.toml -> agodzoYTRenderer-0.0.1
+copying setup.cfg -> agodzoYTRenderer-0.0.1
+copying setup.py -> agodzoYTRenderer-0.0.1
+copying src/agodzoYTRenderer/__init__.py -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer
+copying src/agodzoYTRenderer/custom_exception.py -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer
+copying src/agodzoYTRenderer/logger.py -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer
+copying src/agodzoYTRenderer/youtube.py -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer
+copying src/agodzoYTRenderer.egg-info/PKG-INFO -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info
+copying src/agodzoYTRenderer.egg-info/SOURCES.txt -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info
+copying src/agodzoYTRenderer.egg-info/dependency_links.txt -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info
+copying src/agodzoYTRenderer.egg-info/requires.txt -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info
+copying src/agodzoYTRenderer.egg-info/top_level.txt -> agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info
+Writing agodzoYTRenderer-0.0.1/setup.cfg
+creating '.tox/dist/agodzoYTRenderer-0.0.1.zip' and adding 'agodzoYTRenderer-0.0.1' to it
+adding 'agodzoYTRenderer-0.0.1'
+adding 'agodzoYTRenderer-0.0.1/src'
+adding 'agodzoYTRenderer-0.0.1/PKG-INFO'
+adding 'agodzoYTRenderer-0.0.1/LICENSE'
+adding 'agodzoYTRenderer-0.0.1/pyproject.toml'
+adding 'agodzoYTRenderer-0.0.1/README.md'
+adding 'agodzoYTRenderer-0.0.1/setup.py'
+adding 'agodzoYTRenderer-0.0.1/setup.cfg'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info/PKG-INFO'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info/SOURCES.txt'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info/requires.txt'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info/top_level.txt'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer.egg-info/dependency_links.txt'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer/youtube.py'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer/custom_exception.py'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer/__init__.py'
+adding 'agodzoYTRenderer-0.0.1/src/agodzoYTRenderer/logger.py'
+removing 'agodzoYTRenderer-0.0.1' (and everything under it)
+/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8/site-packages/setuptools/config/setupcfg.py:293: _DeprecatedConfig: Deprecated config in `setup.cfg`
 !!
 
         ********************************************************************************
@@ -66,5 +66,5 @@ removing 'IPYNBrenderer-0.0.1' (and everything under it)
 
 !!
   parsed = self.parsers.get(option_name, lambda x: x)(value)
-/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib/python3.8/site-packages/setuptools/_distutils/dist.py:265: UserWarning: Unknown distribution option: 'long_description_content'
+/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib/python3.8/site-packages/setuptools/_distutils/dist.py:265: UserWarning: Unknown distribution option: 'long_description_content'
   warnings.warn(msg)

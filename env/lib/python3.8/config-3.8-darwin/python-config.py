@@ -1,4 +1,4 @@
-#!/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/bin/python3.8
+#!/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/bin/python3.8
 # -*- python -*-
 
 # Keep this script in sync with python-config.sh.in

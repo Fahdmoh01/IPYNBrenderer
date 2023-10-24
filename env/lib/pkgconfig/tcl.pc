@@ -1,8 +1,8 @@
 # tcl pkg-config source file
 
-prefix=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env
-exec_prefix=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env
-libdir=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib
+prefix=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env
+exec_prefix=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env
+libdir=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib
 includedir=${prefix}/include
 
 Name: Tool Command Language

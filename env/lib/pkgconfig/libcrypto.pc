@@ -1,4 +1,4 @@
-prefix=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env
+prefix=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

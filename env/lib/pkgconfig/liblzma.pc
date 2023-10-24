@@ -5,10 +5,10 @@
 # You can do whatever you want with this file.
 #
 
-prefix=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env
-exec_prefix=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env
-libdir=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/lib
-includedir=/Users/fahdmohammed/Desktop/workspace/IPYNBrenderer/env/include
+prefix=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env
+exec_prefix=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env
+libdir=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/lib
+includedir=/Users/fahdmohammed/Desktop/workspace/agodzoYTRenderer/env/include
 
 Name: liblzma
 Description: General purpose data compression library
